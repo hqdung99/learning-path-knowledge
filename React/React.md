@@ -8,7 +8,7 @@ https://www.codementor.io/blog/react-optimization-5wiwjnf9hj
 4. Using Production Mode Flag in Webpack
 5. Dependency optimization
 6. Use React.Fragments to avoid Additional HTML Element Wrappers
-7. Void Inline Function Definition in the render function
+7. aVoid Inline Function Definition in the render function
 8. Throttling and Debouncing event action
 9. Avoid using index as key for map
 10. Avoiding Props in Initial states
